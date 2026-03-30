@@ -39,7 +39,7 @@ We will use GitHub Actions to implement CI, catching issues early and maintainin
     - `.github/workflows/github-actions-SQAdemo.yml` : GitHub Actions workflow file for automating CI.
         More on GitHub action: GitHub Actions Quickstart](https://docs.github.com/en/actions/get-started/quickstart)
 
-### Assignment 1 (Post Lab Experience) 
+### Assignment 6 (Post Lab Experience) 
 - Create a new public repo. Download all codes and use as template code.
 - Comment Run Validation job in .yml file, update `test_cases.json` for B and C, and push
 -  Take screen shots of example build 
