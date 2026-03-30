@@ -26,8 +26,17 @@ We will use GitHub Actions to implement CI, catching issues early and maintainin
 
 
 ### In-class Hands-on Experience 
-- Demo will be recorded and shared on CANVAS (Zoom Recordings). 
+- Demo will be recorded and shared on CANVAS (Zoom Recordings).
+- File Descriptions
+    - `raw_regulations.txt`: Raw input of CFR or user requirements
+    -  `requirements.json` : Transformed raw input into user requirements for SDLC. This file will
+                             be used in validation and verification step to ensure user requirements.
+    -  `test_cases.json`:    Test cases for verfication to ensure the software meets requirements.
+    -  `expected_structure.json`: Used in validation step to ensure the software meets requirements.
 
+    - `scripts\verfification.py` : Verfification script
+    - `scripts\validation.py`    : Validation script
+    - `.github/workflows/github-actions-SQAdemo.yml` : GitHub Actions workflow file for automating CI.
 
 
 ### Assignment 1 (Post Lab Experience) 
