@@ -2,19 +2,22 @@
   {
     "requirement_id": "REQ-HAZ-001A",
     "parent": "REQ-HAZ-001",
-    "description": "Hazard analysis shall include biological hazards",
-    "source": "117.130(a)"
+    "description": "Hazard analysis shall identify and evaluate biological hazards including bacteria, viruses, and parasites",
+    "source": "117.130(a)",
+    "priority": "high"
   },
   {
     "requirement_id": "REQ-HAZ-001B",
     "parent": "REQ-HAZ-001",
-    "description": "Hazard analysis shall include chemical hazards",
-    "source": "117.130(b)"
+    "description": "Hazard analysis shall identify and evaluate chemical hazards including pesticides, allergens, and toxins",
+    "source": "117.130(b)",
+    "priority": "high"
   },
   {
     "requirement_id": "REQ-HAZ-001C",
     "parent": "REQ-HAZ-001",
-    "description": "Hazard analysis shall include physical hazards",
-    "source": "117.130(c)"
+    "description": "Hazard analysis shall identify and evaluate physical hazards including metal, glass, and plastic fragments",
+    "source": "117.130(c)",
+    "priority": "medium"
   }
 ]
