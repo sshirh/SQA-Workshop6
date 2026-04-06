@@ -1,7 +1,20 @@
 [
-    {
-      "test_id": "TC-HAZ-001A",
-      "requirement_id": "REQ-HAZ-001A"
-    }
-  ]
-  
+  {
+    "test_id": "TC-HAZ-001A",
+    "requirement_id": "REQ-HAZ-001A",
+    "description": "Test that biological hazards are identified in hazard analysis",
+    "expected_result": "System identifies biological hazards such as bacteria, viruses, parasites"
+  },
+  {
+    "test_id": "TC-HAZ-001B",
+    "requirement_id": "REQ-HAZ-001B",
+    "description": "Test that chemical hazards are identified in hazard analysis",
+    "expected_result": "System identifies chemical hazards such as pesticides, allergens, toxins"
+  },
+  {
+    "test_id": "TC-HAZ-001C",
+    "requirement_id": "REQ-HAZ-001C",
+    "description": "Test that physical hazards are identified in hazard analysis",
+    "expected_result": "System identifies physical hazards such as metal, glass, plastic fragments"
+  }
+]
