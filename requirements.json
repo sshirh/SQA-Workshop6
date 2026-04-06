@@ -5,7 +5,7 @@
     "description": "Hazard analysis shall identify and evaluate biological hazards including bacteria, viruses, and parasites",
     "source": "117.130(a)",
     "priority": "high"
-  }
+  },
   {
     "requirement_id": "REQ-HAZ-001B",
     "parent": "REQ-HAZ-001",
